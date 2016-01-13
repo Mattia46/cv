@@ -1,7 +1,7 @@
  
 ## MATTIA ASSOGNA
 
-   I a Junior Web Developer.
+   Junior Web Developer available immediately.
    After many years in the tax legislation industry as a Corporate Tax Consultant, I realised
    that it was time to follow my passion, so I attended an intensive coding programme (Makers Academy in London)
    and graduated as a full-stack developer.
@@ -66,7 +66,7 @@ learn a new language in a single week given a lack of resources for the latest v
  - Bachelor in Economics (grade A).
 
   ### Experience
-   - **Disney UK** (Nov 2014 - Sep 2015): Cast Member.
+   - **Disney UK** (Nov 2014 - Sep 2015): Cast Member. I took this oppurtunity to improve my English.
    - **Studio Manzoni Pagliero Vanz & Partners** (Nov 2012 - Nov 2014): Financial
      risk & **corporate tax consultant**. I participate and manage the
    restructuring projects and strategic investment for national and international
