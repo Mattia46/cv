@@ -6,6 +6,7 @@
    After many years in the tax legislation industry as a Corporate Tax Consultant, I realised
    that it was time to follow my passion, so I attended an intensive coding programme (Makers Academy in London)
    and graduated as a full-stack developer.
+   
    Seeking a role with a focus on TDD/BDD, continued learning and innovation.
 
 ### Code Examples
@@ -36,7 +37,6 @@ Javascript was the second language that I learned. I first learned and used JQue
 - Angular utilised for the frontend.
 - Integrated with the [Amadeus low fare seach API](https://sandbox.amadeus.com/api-catalog).
 
-#### Javascript/AngularJS/jQuery
 
 -  [Github user search](https://github.com/Mattia46/githubChallengeJS) A project to introduce me to the core concepts of AngularJS. Tested with Jasmine, Karma and PhantomJS
 - [Thermostat](https://github.com/Mattia46/thermostatJs) A project to introduce
@@ -46,11 +46,11 @@ Javascript was the second language that I learned. I first learned and used JQue
 
 #### Apple Swift (2.1)
 
-I used this language for several small projects as well as for my final project [Housemate iOS](https://github.com/Mattia46/Swift-houseMates). The main challenge that I faced was to learn a new language given a lack of resources for the latest version of Swift (2.1), as well as having to create my own API to facilitate the communication between the web site and iOS application.
+I used this language for several small projects as well as for my final project [Housemate iOS](https://github.com/Mattia46/Swift-houseMates). The main challenge that I faced was to learn a new language given a lack of resources for the latest version of Swift (2.1).
 
- - [Housemate iOS](https://github.com/Mattia46/Swift-houseMates) A web and iOS application that would help to avoid bed housemates through building up your own renting history and find people with your needs. The main challenge that I faced was to create an API to facilitate the communication between the web site and iOS application.
+ - [Housemate iOS](https://github.com/Mattia46/Swift-houseMates) A web and iOS application to relieve the stress of finding new housemates. The App let you to create your own renting history, find people with your needs and connect with them. The main challenge that I faced was to create an API to facilitate the communication between the web site and iOS application.
  
- - [Weather App](https://github.com/Mattia46/SwiftWeatherApp) An application to retrive information about the weather. I learnt how to make RespApiCall and manipulate the Json object.
+ - [Weather App](https://github.com/Mattia46/SwiftWeatherApp) An application to retreive information about the weather. I learnt how to make RespApiCall and manipulate the Json object.
  
  - [Twitter-clone](https://github.com/Mattia46/Swift_Twitter) An application who reproduce the Twitter App. I learnt how to login and sign up as well as how to post data into Firebase framework.
 
