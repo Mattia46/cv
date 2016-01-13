@@ -30,15 +30,14 @@ I am able to built and end to end application, using different technologies and 
   me to the core concepts of jQuery. Tested with Jasmine .
 
 
- **Ruby**
-
--  [Aiport](https://github.com/Mattia46/airport_challenge) &
-[Oystercard](https://github.com/Mattia46/oystercard): I made these projects
-following the Single responsibility, Open-closed, Liskov substitution, Interface
-segregation and Dependency inversion principles (SOLID) and Test-Driven
+ **Ruby and Ruby on Rails**
+ Ruby has been my first Ojbect Oriented Programming code language. Through It I learnt the Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion principles (SOLID) and Test-Driven
 Development (TDD).
--  [Yelp-clone](https://github.com/Mattia46/Yelp) In this project I made a Yelp clone with **ruby on rails**. I tested with RSpec and Capybara, Poltergeist and PhantomJS. For the backend I
-used a relational DataBase (Postgresql)
+
+-  [Aiport](https://github.com/Mattia46/airport_challenge): A Program that can land and take-off planes from different airports as long as there is space and it isn't stormy. It is 100% tested using RSpec.
+
+ - [Oystercard](https://github.com/Mattia46/oystercard): This program replace the London Oystercard behave. As a user you can create your own oystercard, top up It, make journeys through different station and being fined if you do not touch out at the end of your journey. Fully tested with RSpec.
+-  [Yelp-clone](https://github.com/Mattia46/Yelp) In this project I made a Yelp clone with **ruby on rails**. I tested with RSpec and Capybara, Poltergeist and PhantomJS. For the backend I used a relational DataBase (Postgresql)
 
  **Apple Swift 2.1**
 
