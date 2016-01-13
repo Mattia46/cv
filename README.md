@@ -23,7 +23,7 @@ Development (TDD).
 
 -  [Aiport](https://github.com/Mattia46/airport_challenge): A Program that can land and take-off planes from different airports as long as there is space and it isn't stormy. It is 100% tested using RSpec.
 
- - [Oystercard](https://github.com/Mattia46/oystercard): This program replace the London Oystercard behave. As a user you can create your own oystercard, top up It, make journeys through different station and being fined if you do not touch out at the end of your journey. Fully tested with RSpec.
+- [Oystercard](https://github.com/Mattia46/oystercard): This program replace the London Oystercard behave. As a user you can create your own oystercard, top up It, make journeys through different stations and being fined if you do not touch out at the end of your journey. Fully tested with RSpec.
 -  [Yelp-clone](https://github.com/Mattia46/Yelp) In this project I made a Yelp clone with **ruby on rails**. I tested with RSpec and Capybara, Poltergeist and PhantomJS. For the backend I used a relational DataBase (Postgresql)
 
 
