@@ -57,23 +57,25 @@ I used this language for several small projects as well as for my final project 
 
 ## Education
 
-**Makers Academy:** (September 2015 - January 2016)
+**Makers Academy** (September 2015 - January 2016)
+
 Highly selective 12 week intensive coding bootcamp.
 
 - Focussed on pair programming, test driven development, agile practices
 - Object oriented programming, software design
 - Full stack web development
 
-##### University of Pescara (Italy): (Jan 2012 - Oct 2012): 
+**University of Pescara (Italy)** (January 2012 - October 2012) 
 
 - Master in International and Corporate Tax Law in collaboration with the Tax Office
 (grade 2:1).
 
-##### University of Bologna (Italy) (Sept 2007 - March 2011): 
+**University of Bologna (Italy)** (September 2007 - March 2011) 
 
 - Five-year combined Bachelor and Master in Law (grade 2:1)
 
-##### University of Pescara (Italy) (Sept 2004 - July 2007): 
+**University of Pescara (Italy)** (September 2004 - July 2007) 
+
 - Bachelor in Economics (grade 2:1).
 
 ## Experience
