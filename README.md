@@ -5,7 +5,8 @@
    
    After many years in the tax legislation industry as a Corporate Tax Consultant, I realised
    that it was time to follow my passion, so I attended an intensive coding programme (Makers Academy in London)
-   and graduated as a full-stack developer.
+   and graduated as a full-stack developer. I belive in TDD (Test Driven Development) and BDD (Behaviour Driven Development) and use red-green-refactor to code my projects.
+  
    Seeking a role with a focus on TDD/BDD, continued learning and innovation.
 
 ### Code Examples
@@ -15,7 +16,7 @@
 
 ## Skills
 
-I am able to built and end to end application, using different technologies and adhering to the SOLID principles. I belive in TDD (Test Driven Development) and BDD (Behaviour Driven Development) and use red-green-refactor to code my projects.
+I am able to built and end to end application, using different technologies and adhering to the SOLID principles. 
 
 #### Ruby and Ruby on Rails
 
@@ -25,6 +26,7 @@ Development (TDD) and Relational Database.
 -  [Aiport](https://github.com/Mattia46/airport_challenge): A Program that can land and take-off planes from different airports as long as there is space and it isn't stormy. It is 100% tested using RSpec.
 
 - [Oystercard](https://github.com/Mattia46/oystercard): This program reproduce the London Oystercard. As a user you can create your own oystercard, top It up, make journeys through different stations and being fined if you do not touch out at the end of your journey. Fully tested with RSpec.
+
 -  [Yelp-clone](https://github.com/Mattia46/Yelp) In this project I made a Yelp clone with ruby on rails. I tested with RSpec and Capybara, Poltergeist and PhantomJS. For the backend I used a relational DataBase (Postgresql)
 
 
