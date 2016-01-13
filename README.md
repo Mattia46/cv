@@ -10,7 +10,7 @@
 ### Code Examples
 | [HouseMates](https://github.com/Mattia46/HouseMates-Web) | [TakeAway](https://github.com/Mattia46/takeaway-challenge) | [Weather](https://github.com/Mattia46/SwiftWeatherApp) |
 |--------------|-----------|-----------|
-| **MEAN stack/Swift** with [@Alaan](https://github.com/Alaanzr), [@Ezzy](https://github.com/ezzye) and [@Julien](https://github.com/jbhdeconinck).  We built our own **API** using a combination of **Node**, **Express**, **Passport** and **Mongoose** to model the data. We also integrated the **Google Maps API**. I really enjoyed working in a team (using **github workflow**, Waffle).  We deployed the project with [Heroku](http://housematey.herokuapp.com/) | **Ruby** model of takeaway tested using RSpec with an emphasis on **SOLID** principles | **Apple swift 2.1** app using the RestCallApi |
+| **MEAN stack/Swift** with [@Alaan](https://github.com/Alaanzr), [@Ezzy](https://github.com/ezzye) and [@Julien](https://github.com/jbhdeconinck).  In two weeks we built our own **API** using a combination of **Node**, **Express**, **Passport** and **Mongoose** to model the data. We also integrated the **Google Maps API**. I really enjoyed working in a team (using **github workflow**, Waffle).  We deployed the project with [Heroku](http://housematey.herokuapp.com/) | **Ruby** model of takeaway tested using RSpec with an emphasis on **SOLID** principles | **Apple swift 2.1** app using the RestCallApi |
 ### Skill
 I am able to built and end to end application, using different technologies and adhering to the SOLID principles, AGILE proceses and TDD.
 
@@ -66,11 +66,12 @@ learn a new language in a single week given a lack of resources for the latest v
  - Bachelor in Economics (grade A).
 
   ### Experience
-   - **Disney UK** (Nov 2014 - Sep 2015): Cast member in a store.
+   - **Disney UK** (Nov 2014 - Sep 2015): Cast Member.
    - **Studio Manzoni Pagliero Vanz & Partners** (Nov 2012 - Nov 2014): Financial
      risk & **corporate tax consultant**. I participate and manage the
    restructuring projects and strategic investment for national and international
    company
    - **Dioguardi & Cocchini Law Firm** (Jan 2012 - Oct 2012): **Trainee Lawyer**.
+   - **Assogna Interior Design** (Jan 2004 - Feb 2011): **Customer Relationship Manager**. During these years I made my own data base to collect and analyze customer information that let me to increase the annual turnover up to 54%.
 
 
