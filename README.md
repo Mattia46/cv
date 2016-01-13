@@ -45,9 +45,9 @@ Javascript was the second language that I learned. I first learned and used JQue
 
 #### Apple Swift (2.1)
 
--  [HouseMates iOs](https://github.com/Mattia46/Swift-houseMates) This iOS app
-completes the MEAN stack project above. The main challenges that we faced were to
-learn a new language in a single week given a lack of resources for the latest version of Swift (2.1), as well as having to create our own API to facilitate the communication for both web site and iOS.
+ - I used this language for several small projects as well as for my final project [Housemate iOS](https://github.com/Mattia46/Swift-houseMates). The main challenges that I faced were to learn a new language in a single week given a lack of resources for the latest version of Swift (2.1), as well as having to create our own API to facilitate the communication between the web site and iOS application.
+
+
 
 
   ### Education
