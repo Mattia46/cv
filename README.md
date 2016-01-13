@@ -12,7 +12,7 @@
  - Takeaway (website), BDD, MEAN stack (MongoDB, Express, Angular and NodeJS) and JQuery.
  - Not by Plane (website), find the best transportation between Airplain and Train. Retrieve and manipulate JSON object from Amadeus API using MEAN stack
 
-   Seeking a role with a focus on TDD/BDD, continued learning and innovation.
+Seeking a role with a focus on TDD/BDD, continued learning and innovation.
 
 
 ## Skills
