@@ -6,7 +6,6 @@
    After many years in the tax legislation industry as a Corporate Tax Consultant, I realised
    that it was time to follow my passion, so I attended an intensive coding programme (Makers Academy in London)
    and graduated as a full-stack developer.
-   
    Seeking a role with a focus on TDD/BDD, continued learning and innovation.
 
 ### Code Examples
@@ -53,6 +52,12 @@ I used this language for several small projects as well as for my final project 
  - [Weather App](https://github.com/Mattia46/SwiftWeatherApp) An application to retreive information about the weather. I learnt how to make RespApiCall and manipulate the Json object.
  
  - [Twitter-clone](https://github.com/Mattia46/Swift_Twitter) An application who reproduce the Twitter App. I learnt how to login and sign up as well as how to post data into Firebase framework.
+
+#### SCRUM and Agile project management
+
+Proficient in the use of Github and Github flow. 
+- Experienced at working in a team, using Waffle and Github branches for several projects
+- I used agile project managment
 
 
 ## Education
