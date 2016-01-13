@@ -89,7 +89,7 @@ Highly selective 12 week intensive coding bootcamp.
 
 - **Disney UK** (November 2014 - September 2015)
  
-  Cast Member. I took this opportunity to keep improving my castomer service skill.
+  Cast Member. I took this opportunity to keep improving my castomer relational skill and my English.
 - **Studio Manzoni Pagliero Vanz & Partners** (November 2012 - November 2014)
 
   **Financial risk & corporate tax consultant**. I participate and manage the restructuring projects and strategic investment for national and international company
