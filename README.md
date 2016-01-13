@@ -12,11 +12,23 @@
 | [HouseMates](https://github.com/Mattia46/HouseMates-Web) | [TakeAway](https://github.com/Mattia46/takeaway-challenge) | [Weather](https://github.com/Mattia46/SwiftWeatherApp) |
 |--------------|-----------|-----------|
 | **MEAN stack/Swift** with [@Alaan](https://github.com/Alaanzr), [@Ezzy](https://github.com/ezzye) and [@Julien](https://github.com/jbhdeconinck).  In two weeks we built our own **API** using a combination of **Node**, **Express**, **Passport** and **Mongoose** to model the data. We also integrated the **Google Maps API**. I really enjoyed working in a team (using **github workflow**, Waffle).  We deployed the project with [Heroku](http://housematey.herokuapp.com/) | **Ruby** model of takeaway tested using RSpec with an emphasis on **SOLID** principles | **Apple swift 2.1** app using the RestCallApi |
-### Skill
+
+### Skills
 I am able to built and end to end application, using different technologies and adhering to the SOLID principles, AGILE proceses and TDD.
 
+#### Ruby and Ruby on Rails
 
-#### MEAN stack
+ Ruby has been my first Ojbect Oriented Programming code language. Through It I learnt the Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion principles (SOLID) and Test-Driven
+Development (TDD).
+
+-  [Aiport](https://github.com/Mattia46/airport_challenge): A Program that can land and take-off planes from different airports as long as there is space and it isn't stormy. It is 100% tested using RSpec.
+
+ - [Oystercard](https://github.com/Mattia46/oystercard): This program replace the London Oystercard behave. As a user you can create your own oystercard, top up It, make journeys through different station and being fined if you do not touch out at the end of your journey. Fully tested with RSpec.
+-  [Yelp-clone](https://github.com/Mattia46/Yelp) In this project I made a Yelp clone with **ruby on rails**. I tested with RSpec and Capybara, Poltergeist and PhantomJS. For the backend I used a relational DataBase (Postgresql)
+
+
+#### Javascript and MEAN stack including Angular and NodeJS
+Javascript was the second language that I learned. I first learned and used JQuery as a frontend and MEAN stack, mongodb, express and NodeJS for the backend. I used Jasmine, Protractor and Frisby to test the code. I then learned AngularJS.
 
 - [Not by Plane](https://github.com/Mattia46/not-by-plane) - An application intended to compare flight pricing and travel information with alternate modes of transport.
 - Group project built in 3 days as a proof of concept.
@@ -30,15 +42,6 @@ I am able to built and end to end application, using different technologies and 
   me to the core concepts of jQuery. Tested with Jasmine .
 
 
-#### Ruby and Ruby on Rails
-
- Ruby has been my first Ojbect Oriented Programming code language. Through It I learnt the Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion principles (SOLID) and Test-Driven
-Development (TDD).
-
--  [Aiport](https://github.com/Mattia46/airport_challenge): A Program that can land and take-off planes from different airports as long as there is space and it isn't stormy. It is 100% tested using RSpec.
-
- - [Oystercard](https://github.com/Mattia46/oystercard): This program replace the London Oystercard behave. As a user you can create your own oystercard, top up It, make journeys through different station and being fined if you do not touch out at the end of your journey. Fully tested with RSpec.
--  [Yelp-clone](https://github.com/Mattia46/Yelp) In this project I made a Yelp clone with **ruby on rails**. I tested with RSpec and Capybara, Poltergeist and PhantomJS. For the backend I used a relational DataBase (Postgresql)
 
 #### Apple Swift (2.1)
 
