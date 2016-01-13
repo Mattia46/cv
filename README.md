@@ -14,6 +14,7 @@
 | **MEAN stack/Swift** with [@Alaan](https://github.com/Alaanzr), [@Ezzy](https://github.com/ezzye) and [@Julien](https://github.com/jbhdeconinck).  In two weeks we built our own **API** using a combination of **Node**, **Express**, **Passport** and **Mongoose** to model the data. We also integrated the **Google Maps API**. I really enjoyed working in a team (using **github workflow**, Waffle).  We deployed the project with [Heroku](http://housematey.herokuapp.com/) | **Ruby** model of takeaway tested using RSpec with an emphasis on **SOLID** principles | **Apple swift 2.1** app using the RestCallApi |
 
 ### Skills
+-----------------------
 I am able to built and end to end application, using different technologies and adhering to the SOLID principles. I belive in TDD (Test Driven Development) and BDD (Behaviour Driven Development) and use red-green-refactor to code my projects.
 
 #### Ruby and Ruby on Rails
@@ -55,6 +56,7 @@ I used this language for several small projects as well as for my final project 
 
 
 ### Education
+----------------------------
 
 ##### Makers Academy: Sep - Jan 2016
 Highly selective 12 week intensive coding bootcamp.
@@ -76,6 +78,7 @@ Highly selective 12 week intensive coding bootcamp.
 - Bachelor in Economics (grade 2:1).
 
 ### Experience
+---------------------------------
 
 - **Disney UK** (November 2014 - September 2015)
  
