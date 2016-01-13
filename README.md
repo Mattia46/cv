@@ -71,7 +71,7 @@ Highly selective 12 week intensive coding bootcamp.
 - Object oriented programming, software design
 - Full stack web development
 
-**University of Pescara (Italy)** (January 2012 - October 2012) 
+**University of Teramo (Italy)** (January 2012 - October 2012) 
 
 - Master in International and Corporate Tax Law in collaboration with the Tax Office
 (grade 2:1).
