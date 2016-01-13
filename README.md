@@ -11,7 +11,7 @@
 | [HouseMates](https://github.com/Mattia46/HouseMates-Web) | [TakeAway](https://github.com/Mattia46/takeaway-challenge) | [Weather](https://github.com/Mattia46/SwiftWeatherApp) |
 |--------------|-----------|-----------|
 | **MEAN stack/Swift** with [@Alaan](https://github.com/Alaanzr), [@Ezzy](https://github.com/ezzye) and [@Julien](https://github.com/jbhdeconinck).  We built our own **API** using a combination of **Node**, **Express**, **Passport** and **Mongoose** to model the data. We also integrated the **Google Maps API**. I really enjoyed working in a team (using **github workflow**, Waffle).  We deployed the project with [Heroku](http://housematey.herokuapp.com/) | **Ruby** model of takeaway tested using RSpec with an emphasis on **SOLID** principles | **Apple swift 2.1** app using the RestCallApi |
-   ### Skill
+### Skill
 I am able to built and end to end application, using different technologies and adhering to the SOLID principles, AGILE proceses and TDD.
 
 
