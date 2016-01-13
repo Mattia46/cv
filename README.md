@@ -45,8 +45,13 @@ Javascript was the second language that I learned. I first learned and used JQue
 
 #### Apple Swift (2.1)
 
- - I used this language for several small projects as well as for my final project [Housemate iOS](https://github.com/Mattia46/Swift-houseMates). The main challenges that I faced were to learn a new language in a single week given a lack of resources for the latest version of Swift (2.1), as well as having to create our own API to facilitate the communication between the web site and iOS application.
+I used this language for several small projects as well as for my final project [Housemate iOS](https://github.com/Mattia46/Swift-houseMates). The main challenge that I faced was to learn a new language given a lack of resources for the latest version of Swift (2.1), as well as having to create my own API to facilitate the communication between the web site and iOS application.
 
+ - [Housemate iOS](https://github.com/Mattia46/Swift-houseMates) A web and iOS application that would help to avoid bed housemates through building up your own renting history and find people with your needs. The main challenge that I faced was to create an API to facilitate the communication between the web site and iOS application.
+ 
+ - [Weather App](https://github.com/Mattia46/SwiftWeatherApp) An application to retrive information about the weather. I learnt how to make RespApiCall and manipulate the Json object.
+ 
+ - [Twitter-clone](https://github.com/Mattia46/Swift_Twitter) An application who reproduce the Twitter App. I learnt how to login and sign up as well as how to post data into Firebase framework.
 
 
 
