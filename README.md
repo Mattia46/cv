@@ -8,8 +8,8 @@
    and graduated as a full-stack developer. I belive in TDD (Test Driven Development) and BDD (Behaviour Driven Development) and use red-green-refactor to code my projects.
   
   My last three projects:
+- Housemate (website and native iOS app), find new housemate, TDD, MEAN Stack and iOS app Apple Swift (2.1)
  - Takeaway (website), BDD, MEAN stack (MongoDB, Express, Angular and NodeJS) and JQuery.
- - Housemate (website and native iOS app), find new housemate, TDD, MEAN Stack and iOS app Apple Swift (2.1)
  - Not by Plane (website), find the best transportation between Airplain and Train. Retrieve and manipulate JSON object from Amadeus API using MEAN stack
 
    Seeking a role with a focus on TDD/BDD, continued learning and innovation.
