@@ -54,33 +54,32 @@ I used this language for several small projects as well as for my final project 
  - [Twitter-clone](https://github.com/Mattia46/Swift_Twitter) An application who reproduce the Twitter App. I learnt how to login and sign up as well as how to post data into Firebase framework.
 
 
+### Education
 
-  ### Education
 ##### Makers Academy: Sep - Jan 2016
- Highly selective 12 week intensive coding bootcamp.
+Highly selective 12 week intensive coding bootcamp.
 
- - Focussed on pair programming, test driven development, agile practices
- - Object oriented programming, software design
- - Full stack web development
-
+- Focussed on pair programming, test driven development, agile practices
+- Object oriented programming, software design
+- Full stack web development
 
 ##### University of Pescara (Italy): (Jan 2012 - Oct 2012): 
- - Master in International and Corporate Tax Law in collaboration with the Tax Office
+
+- Master in International and Corporate Tax Law in collaboration with the Tax Office
 (grade A).
 
 ##### University of Bologna (Italy) (Sept 2007 - March 2011): 
- - Five-year combined Bachelor and Master in Law (grade B)
+
+- Five-year combined Bachelor and Master in Law (grade B)
 
 ##### University of Pescara (Italy) (Sept 2004 - July 2007): 
- - Bachelor in Economics (grade A).
+- Bachelor in Economics (grade A).
 
-  ### Experience
-   - **Disney UK** (Nov 2014 - Sep 2015): Cast Member. I took this oppurtunity to improve my English.
-   - **Studio Manzoni Pagliero Vanz & Partners** (Nov 2012 - Nov 2014): Financial
-     risk & **corporate tax consultant**. I participate and manage the
-   restructuring projects and strategic investment for national and international
-   company
-   - **Dioguardi & Cocchini Law Firm** (Jan 2012 - Oct 2012): **Trainee Lawyer**.
-   - **Assogna Interior Design** (Jan 2004 - Feb 2011): **Customer Relationship Manager**. During these years I made my own data base to collect and analyze customer information that let me to increase the annual turnover up to 54%.
+### Experience
+
+- **Disney UK** (Nov 2014 - Sep 2015): Cast Member. I took this oppurtunity to improve my English.
+- **Studio Manzoni Pagliero Vanz & Partners** (Nov 2012 - Nov 2014): Financial risk & **corporate tax consultant**. I participate and manage the restructuring projects and strategic investment for national and international company
+- **Dioguardi & Cocchini Law Firm** (Jan 2012 - Oct 2012): **Trainee Lawyer**.
+- **Assogna Interior Design** (Jan 2004 - Feb 2011): **Customer Relationship Manager**. During these years I made my own data base to collect and analyze customer information that let me to increase the annual turnover up to 54%.
 
 
