@@ -2,6 +2,7 @@
 ## MATTIA ASSOGNA
 
    Junior Web Developer available immediately.
+   
    After many years in the tax legislation industry as a Corporate Tax Consultant, I realised
    that it was time to follow my passion, so I attended an intensive coding programme (Makers Academy in London)
    and graduated as a full-stack developer.
