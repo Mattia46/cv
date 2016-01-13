@@ -78,12 +78,16 @@ Highly selective 12 week intensive coding bootcamp.
 ### Experience
 
 - **Disney UK** (November 2014 - September 2015):
+ 
   Cast Member. I took this oppurtunity to improve my English.
 - **Studio Manzoni Pagliero Vanz & Partners** (November 2012 - November 2014): 
+
   Financial risk & **corporate tax consultant**. I participate and manage the restructuring projects and strategic investment for national and international company
 - **Dioguardi & Cocchini Law Firm** (January 2012 - October 2012): 
+
   Trainee Lawyer
 - **Assogna Interior Design** (Jan 2004 - Feb 2011): 
+
   Customer Relationship Manager. During these years I made my own data base to collect and analyze customer information that let me to increase the annual turnover up to 54%.
 
 
