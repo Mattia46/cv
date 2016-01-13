@@ -57,7 +57,7 @@ I used this language for several small projects as well as for my final project 
 
 ## Education
 
-**Makers Academy** (September 2015 - January 2016)
+**Makers Academy (London UK)** (September 2015 - January 2016)
 
 Highly selective 12 week intensive coding bootcamp.
 
