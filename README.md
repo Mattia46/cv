@@ -10,7 +10,7 @@
   My last three projects:
  - Takeaway (website), BDD, MEAN stack (MongoDB, Express, Angular and NodeJS) and JQuery.
  - Housemate (website and native iOS app), find new housemate, TDD, MEAN Stack and iOS app Apple Swift (2.1)
- - Not by Plane (website), find the best transport between Airplain and Train. Retrieve and manipulate JSON object from Amadeus API using MEAN stack
+ - Not by Plane (website), find the best transportation between Airplain and Train. Retrieve and manipulate JSON object from Amadeus API using MEAN stack
 
    Seeking a role with a focus on TDD/BDD, continued learning and innovation.
 
@@ -28,15 +28,17 @@ I am able to built and end to end application, using different technologies and 
  Ruby has been my first Ojbect Oriented Programming code language. Through It I learnt the Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion principles (SOLID), Test-Driven
 Development (TDD) and Relational Database.
 
--  [Aiport](https://github.com/Mattia46/airport_challenge): A Program that can land and take-off planes from different airports as long as there is space and it isn't stormy. It is 100% tested using RSpec.
+- [Aiport](https://github.com/Mattia46/airport_challenge): A Program that can land and take-off planes from different airports as long as there is space and it isn't stormy. It is 100% tested using RSpec.
 
 - [Oystercard](https://github.com/Mattia46/oystercard): This program reproduce the London Oystercard. As a user you can create your own oystercard, top It up, make journeys through different stations and being fined if you do not touch out at the end of your journey. Fully tested with RSpec.
 
--  [Yelp-clone](https://github.com/Mattia46/Yelp) In this project I made a Yelp clone with ruby on rails. I tested with RSpec and Capybara, Poltergeist and PhantomJS. For the backend I used a relational DataBase (Postgresql)
+- [Yelp-clone](https://github.com/Mattia46/Yelp) In this project I made a Yelp clone with ruby on rails. I tested with RSpec and Capybara, Poltergeist and PhantomJS. For the backend I used a relational DataBase (Postgresql)
 
 
 #### Javascript and MEAN stack including Angular and NodeJS
 Javascript was the second language that I learned. I first learned and used JQuery as a frontend and MEAN stack, mongodb, express and NodeJS for the backend. I then learned AngularJS. I used Jasmine, Protractor and Frisby to test the code.
+
+- [HouseMates](https://github.com/Mattia46/HouseMates-Web) **MEAN stack/[Apple Swift](#housemate-iOS)** with [@Alaan](https://github.com/Alaanzr), [@Ezzy](https://github.com/ezzye) and [@Julien](https://github.com/jbhdeconinck). In two weeks we built our own **API** using a combination of **Node**, **Express**, **Passport** and **Mongoose** to model the data. We also integrated the **Google Maps API**. I really enjoyed working in a team (using **github workflow**, Waffle).  We deployed the project with [Heroku](http://housematey.herokuapp.com/)
 
 - [Not by Plane](https://github.com/Mattia46/not-by-plane) - An application intended to compare flight pricing and travel information with alternate modes of transport.
 - Group project built in 3 days as a proof of concept.
