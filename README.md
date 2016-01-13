@@ -66,27 +66,27 @@ Highly selective 12 week intensive coding bootcamp.
 ##### University of Pescara (Italy): (Jan 2012 - Oct 2012): 
 
 - Master in International and Corporate Tax Law in collaboration with the Tax Office
-(grade A).
+(grade 2:1).
 
 ##### University of Bologna (Italy) (Sept 2007 - March 2011): 
 
-- Five-year combined Bachelor and Master in Law (grade B)
+- Five-year combined Bachelor and Master in Law (grade 2:1)
 
 ##### University of Pescara (Italy) (Sept 2004 - July 2007): 
-- Bachelor in Economics (grade A).
+- Bachelor in Economics (grade 2:1).
 
 ### Experience
 
-- **Disney UK** (November 2014 - September 2015):
+- **Disney UK** (November 2014 - September 2015)
  
   Cast Member. I took this oppurtunity to improve my English.
-- **Studio Manzoni Pagliero Vanz & Partners** (November 2012 - November 2014): 
+- **Studio Manzoni Pagliero Vanz & Partners** (November 2012 - November 2014)
 
   Financial risk & **corporate tax consultant**. I participate and manage the restructuring projects and strategic investment for national and international company
-- **Dioguardi & Cocchini Law Firm** (January 2012 - October 2012): 
+- **Dioguardi & Cocchini Law Firm** (January 2012 - October 2012) 
 
   Trainee Lawyer
-- **Assogna Interior Design** (Jan 2004 - Feb 2011): 
+- **Assogna Interior Design** (Jan 2004 - Feb 2011) 
 
   Customer Relationship Manager. During these years I made my own data base to collect and analyze customer information that let me to increase the annual turnover up to 54%.
 
