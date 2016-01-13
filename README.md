@@ -38,7 +38,7 @@ Javascript was the second language that I learned. I first learned and used JQue
 
 - [Not by Plane](https://github.com/Mattia46/not-by-plane) Group project built in 3 days as a proof of concept. An application intended to compare flight pricing and travel information with alternate modes of transport. I learnt how to retrieve and manipulate *AJAX object* from an API. I used AngularJS as a frontend and [Amadeus low fare seach API](https://sandbox.amadeus.com/api-catalog).
 
-- [TakeAway](https://github.com/Mattia46/takeaway_project) Group project built in 4 days. I learnt how to work in a team using Githun workflow and Waffle. The application is tested with Jasmine.
+- [TakeAway](https://github.com/Mattia46/takeaway_project) Group project built in 4 days. I learnt how to work in a team using Githun workflow and Waffle. I also use **Twillio**. The application is tested with Jasmine.
 
 -  [Github user search](https://github.com/Mattia46/githubChallengeJS) A project to introduce me to the core concepts of AngularJS. Tested with Jasmine, Karma and PhantomJS
 
