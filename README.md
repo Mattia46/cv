@@ -18,8 +18,8 @@ I am able to built and end to end application, using different technologies and 
 
 #### Ruby and Ruby on Rails
 
- Ruby has been my first Ojbect Oriented Programming code language. Through It I learnt the Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion principles (SOLID) and Test-Driven
-Development (TDD).
+ Ruby has been my first Ojbect Oriented Programming code language. Through It I learnt the Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion principles (SOLID), Test-Driven
+Development (TDD) and Relational Database.
 
 -  [Aiport](https://github.com/Mattia46/airport_challenge): A Program that can land and take-off planes from different airports as long as there is space and it isn't stormy. It is 100% tested using RSpec.
 
