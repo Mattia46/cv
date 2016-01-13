@@ -38,7 +38,7 @@ Development (TDD) and Relational Database.
 #### Javascript and MEAN stack including Angular and NodeJS
 Javascript was the second language that I learned. I first learned and used JQuery as a frontend and MEAN stack, mongodb, express and NodeJS for the backend. I then learned AngularJS. I used Jasmine, Protractor and Frisby to test the code.
 
-- [HouseMates](https://github.com/Mattia46/HouseMates-Web) **MEAN stack/[Apple Swift](#Apple-Swift-(2.1))** with [@Alaan](https://github.com/Alaanzr), [@Ezzy](https://github.com/ezzye) and [@Julien](https://github.com/jbhdeconinck). In two weeks we built our own **API** using a combination of **Node**, **Express**, **Passport** and **Mongoose** to model the data. We also integrated the **Google Maps API**. I really enjoyed working in a team (using **github workflow**, Waffle).  We deployed the project with [Heroku](http://housematey.herokuapp.com/)
+- [HouseMates](https://github.com/Mattia46/HouseMates-Web) **MEAN stack/[Apple Swift](#education)** with [@Alaan](https://github.com/Alaanzr), [@Ezzy](https://github.com/ezzye) and [@Julien](https://github.com/jbhdeconinck). In two weeks we built our own **API** using a combination of **Node**, **Express**, **Passport** and **Mongoose** to model the data. We also integrated the **Google Maps API**. I really enjoyed working in a team (using **github workflow**, Waffle).  We deployed the project with [Heroku](http://housematey.herokuapp.com/)
 
 - [Not by Plane](https://github.com/Mattia46/not-by-plane) - An application intended to compare flight pricing and travel information with alternate modes of transport.
 - Group project built in 3 days as a proof of concept.
@@ -101,7 +101,7 @@ Highly selective 12 week intensive coding bootcamp.
   Cast Member. I took this oppurtunity to improve my English.
 - **Studio Manzoni Pagliero Vanz & Partners** (November 2012 - November 2014)
 
-  Financial risk & **corporate tax consultant**. I participate and manage the restructuring projects and strategic investment for national and international company
+  **Financial risk & corporate tax consultant**. I participate and manage the restructuring projects and strategic investment for national and international company
 - **Dioguardi & Cocchini Law Firm** (January 2012 - October 2012) 
 
   Trainee Lawyer
