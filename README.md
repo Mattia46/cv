@@ -14,10 +14,6 @@
 
    Seeking a role with a focus on TDD/BDD, continued learning and innovation.
 
-### Code Examples
-| [HouseMates](https://github.com/Mattia46/HouseMates-Web) | [TakeAway](https://github.com/Mattia46/takeaway-challenge) | [Weather](https://github.com/Mattia46/SwiftWeatherApp) |
-|--------------|-----------|-----------|
-| **MEAN stack/Swift** with [@Alaan](https://github.com/Alaanzr), [@Ezzy](https://github.com/ezzye) and [@Julien](https://github.com/jbhdeconinck).  In two weeks we built our own **API** using a combination of **Node**, **Express**, **Passport** and **Mongoose** to model the data. We also integrated the **Google Maps API**. I really enjoyed working in a team (using **github workflow**, Waffle).  We deployed the project with [Heroku](http://housematey.herokuapp.com/) | **Ruby** model of takeaway tested using RSpec with an emphasis on **SOLID** principles | **Apple swift 2.1** app using the RestCallApi |
 
 ## Skills
 
@@ -32,17 +28,17 @@ Development (TDD) and Relational Database.
 
 - [Oystercard](https://github.com/Mattia46/oystercard): This program reproduce the London Oystercard. As a user you can create your own oystercard, top It up, make journeys through different stations and being fined if you do not touch out at the end of your journey. Fully tested with RSpec.
 
-- [Yelp-clone](https://github.com/Mattia46/Yelp) In this project I made a Yelp clone with ruby on rails. I tested with RSpec and Capybara, Poltergeist and PhantomJS. For the backend I used a relational DataBase (Postgresql)
+- [Yelp-clone](https://github.com/Mattia46/Yelp) In this project I made a Yelp clone with ruby on rails. I tested with **RSpec and Capybara, Poltergeist and PhantomJS**. For the backend I used a relational DataBase (**Postgresql**)
 
 
 #### Javascript and MEAN stack including Angular and NodeJS
 Javascript was the second language that I learned. I first learned and used JQuery as a frontend and MEAN stack, mongodb, express and NodeJS for the backend. I then learned AngularJS. I used Jasmine, Protractor and Frisby to test the code.
 
-- [HouseMates](https://github.com/Mattia46/HouseMates-Web) A web and iOS application to relieve the stress of finding new housemates. I learnt how to create an **API** using a combination of **Node**, **Express**, **Passport** and **Mongoose** to model the data. We also integrated the **Google Maps API**. I also learnt Angular, Html and Css for frontend. I really enjoyed working in a team (using **github workflow**, Waffle).  I deployed the project with [Heroku](http://housematey.herokuapp.com/)
+- [HouseMates](https://github.com/Mattia46/HouseMates-Web) A web and iOS application to relieve the stress of finding new housemates. I learnt how to create an **API** using a combination of **Node**, **Express**, **Passport** and **Mongoose** to model the data. We also integrated the **Google Maps API**. For frontend I used **Angular, Html and Css**. I really enjoyed working in a team (using **github workflow**, Waffle).  I deployed the project with [Heroku](http://housematey.herokuapp.com/)
 
-- [Not by Plane](https://github.com/Mattia46/not-by-plane) Group project built in 3 days as a proof of concept. An application intended to compare flight pricing and travel information with alternate modes of transport. I learnt how to retrieve and manipulate JSON object from an API. I used AngularJS as a frontend and [Amadeus low fare seach API](https://sandbox.amadeus.com/api-catalog).
+- [Not by Plane](https://github.com/Mattia46/not-by-plane) Group project built in 3 days as a proof of concept. An application intended to compare flight pricing and travel information with alternate modes of transport. I learnt how to retrieve and manipulate *AJAX object* from an API. I used AngularJS as a frontend and [Amadeus low fare seach API](https://sandbox.amadeus.com/api-catalog).
 
-- [TakeAway](https://github.com/Mattia46/takeaway_project) Group project built in 4 days. I learnt how to work in a team using Git Flow and Waffle. The application is tested with Jasmine.
+- [TakeAway](https://github.com/Mattia46/takeaway_project) Group project built in 4 days. I learnt how to work in a team using Githun workflow and Waffle. The application is tested with Jasmine.
 
 -  [Github user search](https://github.com/Mattia46/githubChallengeJS) A project to introduce me to the core concepts of AngularJS. Tested with Jasmine, Karma and PhantomJS
 
