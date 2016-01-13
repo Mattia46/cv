@@ -16,14 +16,14 @@
 I am able to built and end to end application, using different technologies and adhering to the SOLID principles, AGILE proceses and TDD.
 
 
- **MEAN stack**
+#### MEAN stack
 
 - [Not by Plane](https://github.com/Mattia46/not-by-plane) - An application intended to compare flight pricing and travel information with alternate modes of transport.
 - Group project built in 3 days as a proof of concept.
 - Angular utilised for the frontend.
 - Integrated with the [Amadeus low fare seach API](https://sandbox.amadeus.com/api-catalog).
 
- **Javascript/AngularJS/jQuery**
+#### Javascript/AngularJS/jQuery
 
 -  [Github user search](https://github.com/Mattia46/githubChallengeJS) A project to introduce me to the core concepts of AngularJS. Tested with Jasmine, Karma and PhantomJS
 - [Thermostat](https://github.com/Mattia46/thermostatJs) A project to introduce
@@ -40,7 +40,7 @@ Development (TDD).
  - [Oystercard](https://github.com/Mattia46/oystercard): This program replace the London Oystercard behave. As a user you can create your own oystercard, top up It, make journeys through different station and being fined if you do not touch out at the end of your journey. Fully tested with RSpec.
 -  [Yelp-clone](https://github.com/Mattia46/Yelp) In this project I made a Yelp clone with **ruby on rails**. I tested with RSpec and Capybara, Poltergeist and PhantomJS. For the backend I used a relational DataBase (Postgresql)
 
- **Apple Swift 2.1**
+#### Apple Swift (2.1)
 
 -  [HouseMates iOs](https://github.com/Mattia46/Swift-houseMates) This iOS app
 completes the MEAN stack project above. The main challenges that we faced were to
