@@ -28,7 +28,7 @@ Development (TDD) and Relational Database.
 
 
 #### Javascript and MEAN stack including Angular and NodeJS
-Javascript was the second language that I learned. I first learned and used JQuery as a frontend and MEAN stack, mongodb, express and NodeJS for the backend. I used Jasmine, Protractor and Frisby to test the code. I then learned AngularJS.
+Javascript was the second language that I learned. I first learned and used JQuery as a frontend and MEAN stack, mongodb, express and NodeJS for the backend. I then learned AngularJS. I used Jasmine, Protractor and Frisby to test the code.
 
 - [Not by Plane](https://github.com/Mattia46/not-by-plane) - An application intended to compare flight pricing and travel information with alternate modes of transport.
 - Group project built in 3 days as a proof of concept.
