@@ -28,7 +28,7 @@ Development (TDD) and Relational Database.
 
 - [Oystercard](https://github.com/Mattia46/oystercard): This program reproduce the London Oystercard. As a user you can create your own oystercard, top It up, make journeys through different stations and being fined if you do not touch out at the end of your journey. Fully tested with RSpec.
 
-- [Yelp-clone](https://github.com/Mattia46/Yelp) In this project I made a Yelp clone with ruby on rails. I tested with **RSpec and Capybara, Poltergeist and PhantomJS**. For the backend I used a relational DataBase (**Postgresql**)
+- [Yelp-clone](https://github.com/Mattia46/Yelp) In this project I made a Yelp clone with ruby on rails. I tested with **RSpec** and **Capybara**, **Poltergeist** and **PhantomJS**. For the backend I used a relational DataBase (**Postgresql**)
 
 
 #### Javascript and MEAN stack including Angular and NodeJS
