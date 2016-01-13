@@ -38,18 +38,13 @@ Development (TDD) and Relational Database.
 #### Javascript and MEAN stack including Angular and NodeJS
 Javascript was the second language that I learned. I first learned and used JQuery as a frontend and MEAN stack, mongodb, express and NodeJS for the backend. I then learned AngularJS. I used Jasmine, Protractor and Frisby to test the code.
 
-- [HouseMates](https://github.com/Mattia46/HouseMates-Web) **MEAN stack/Apple Swift** with [@Alaan](https://github.com/Alaanzr), [@Ezzy](https://github.com/ezzye) and [@Julien](https://github.com/jbhdeconinck). In two weeks we built our own **API** using a combination of **Node**, **Express**, **Passport** and **Mongoose** to model the data. We also integrated the **Google Maps API**. I really enjoyed working in a team (using **github workflow**, Waffle).  We deployed the project with [Heroku](http://housematey.herokuapp.com/)
+- [HouseMates](https://github.com/Mattia46/HouseMates-Web) **MEAN stack/Apple Swift**. A web and iOS application to relieve the stress of finding new housemates. In two weeks we built our own **API** using a combination of **Node**, **Express**, **Passport** and **Mongoose** to model the data. We also integrated the **Google Maps API**. I really enjoyed working in a team (using **github workflow**, Waffle).  We deployed the project with [Heroku](http://housematey.herokuapp.com/)
 
-- [Not by Plane](https://github.com/Mattia46/not-by-plane) - An application intended to compare flight pricing and travel information with alternate modes of transport.
-- Group project built in 3 days as a proof of concept.
-- Angular utilised for the frontend.
-- Integrated with the [Amadeus low fare seach API](https://sandbox.amadeus.com/api-catalog).
+- [Not by Plane](https://github.com/Mattia46/not-by-plane) Group project built in 3 days as a proof of concept. An application intended to compare flight pricing and travel information with alternate modes of transport. I learnt how to retrieve and manipulate JSON object from an API. I used AngularJS as a frontend and [Amadeus low fare seach API](https://sandbox.amadeus.com/api-catalog).
 
+- [TakeAway](https://github.com/Mattia46/takeaway_project) Group project built in 4 days. I learnt how to work in a team using Git Flow and Waffle. The application is tested with Jasmine.
 
 -  [Github user search](https://github.com/Mattia46/githubChallengeJS) A project to introduce me to the core concepts of AngularJS. Tested with Jasmine, Karma and PhantomJS
-- [Thermostat](https://github.com/Mattia46/thermostatJs) A project to introduce
-  me to the core concepts of jQuery. Tested with Jasmine .
-
 
 
 #### Apple Swift (2.1)
