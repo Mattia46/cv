@@ -55,8 +55,7 @@ I used this language for several small projects as well as for my final project 
  - [Twitter-clone](https://github.com/Mattia46/Swift_Twitter) An application who reproduce the Twitter App. I learnt how to login and sign up as well as how to post data into Firebase framework.
 
 
-### Education
-----------------------------
+#### Education
 
 ##### Makers Academy: Sep - Jan 2016
 Highly selective 12 week intensive coding bootcamp.
@@ -77,8 +76,8 @@ Highly selective 12 week intensive coding bootcamp.
 ##### University of Pescara (Italy) (Sept 2004 - July 2007): 
 - Bachelor in Economics (grade 2:1).
 
-### Experience
----------------------------------
+#### Experience
+
 
 - **Disney UK** (November 2014 - September 2015)
  
