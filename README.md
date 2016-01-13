@@ -57,6 +57,7 @@ I used this language for several small projects as well as for my final project 
 
 Proficient in the use of Github and Github flow. 
 - Experienced at working in a team, using Waffle and Github branches for several projects
+
 - I used agile project managment
 
 
