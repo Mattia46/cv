@@ -30,7 +30,8 @@ I am able to built and end to end application, using different technologies and 
   me to the core concepts of jQuery. Tested with Jasmine .
 
 
- **Ruby and Ruby on Rails**
+#### Ruby and Ruby on Rails
+
  Ruby has been my first Ojbect Oriented Programming code language. Through It I learnt the Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion principles (SOLID) and Test-Driven
 Development (TDD).
 
