@@ -1,11 +1,11 @@
  
 ## MATTIA ASSOGNA
 
-   I recently became a Junior Web Developer and it quickly took over my life.
+   I a Junior Web Developer.
    After many years in the tax legislation industry as a Corporate Tax Consultant, I realised
    that it was time to follow my passion, so I attended an intensive coding programme (Makers Academy in London)
    and graduated as a full-stack developer.
-   I am now looking to start my new career as a Junior Web Developer.
+   Seeking a role with a focus on TDD/BDD, continued learning and innovation.
 
 ### Code Examples
 | [HouseMates](https://github.com/Mattia46/HouseMates-Web) | [TakeAway](https://github.com/Mattia46/takeaway-challenge) | [Weather](https://github.com/Mattia46/SwiftWeatherApp) |
