@@ -24,7 +24,7 @@ I am able to built and end to end application, using different technologies and 
  Ruby was my first Ojbect Oriented Programming code language. Through It I learnt the Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion principles (SOLID), Test-Driven
 Development (TDD) and Relational Database.
 
-- [Aiport](https://github.com/Mattia46/airport_challenge): A Program that can land and take-off planes from different airports as long as there is space and it isn't stormy. It is 100% tested using RSpec.
+- [Takeaway](https://github.com/Mattia46/takeaway-challenge): A Program that can manage a takeaway order. I learnt how to implement Twillio API. It is 100% tested using RSpec.
 
 - [Oystercard](https://github.com/Mattia46/oystercard): This program reproduce the London Oystercard. As a user you can create your own oystercard, top It up, make journeys through different stations and being fined if you do not touch out at the end of your journey. Fully tested with RSpec.
 
