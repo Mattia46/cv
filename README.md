@@ -5,7 +5,7 @@
    
    After many years in the tax legislation industry as a Corporate Tax Consultant, I realised
    that it was time to follow my passion, so I attended an intensive coding programme (Makers Academy in London)
-   and graduated as a full-stack developer. I belive in TDD (Test Driven Development) and BDD (Behaviour Driven Development) and use red-green-refactor to code my projects.
+   and graduated as a full-stack developer. I believe in TDD (Test Driven Development) and BDD (Behaviour Driven Development) and use red-green-refactor to code my projects.
   
   My last three projects:
  - Housemate (website and native iOS app), find new housemate, TDD, MEAN Stack and iOS app Apple Swift (2.1)
