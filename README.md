@@ -20,7 +20,7 @@ During my experience as a CRM at my family Business I made my own data base to c
 
 #### Attention to the details
 
-The attention to the details was crucial when I was working as Corporate Tax Consultant. I spent the majority of the day reviewing documents and reserching to help companies to reach their target.
+The attention to the details was crucial when I was working as Corporate Tax Consultant. I spent the majority of the day reviewing documents and reserching to help companies to avoid mistakes.
 
 #### Ruby and Ruby on Rails
 
