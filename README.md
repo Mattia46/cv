@@ -18,9 +18,9 @@ I am able to built and end to end application, using different technologies and 
 
 During my experience as a CRM I made my own data base to collect and analyze customer information that let me to increase the annual turnover up to 54%.
 
-#### Attention to the details
+#### Attention to details
 
-The attention to the details was crucial when I was working as Corporate Tax Consultant. I spent the majority of the days reviewing documents and reserching to help companies to avoid mistakes.
+The attention to details was crucial when I was working as Corporate Tax Consultant. I spent the majority of the days reviewing documents and reserching to help companies to avoid mistakes.
 
 #### Ruby and Ruby on Rails
 
