@@ -16,7 +16,7 @@ I am able to built and end to end application, using different technologies and 
 
 #### Initiative
 
-During my experience as a CRM at my family Business I made my own data base to collect and analyze customer information that let me to increase the annual turnover up to 54%.
+During my experience as a CRM I made my own data base to collect and analyze customer information that let me to increase the annual turnover up to 54%.
 
 #### Attention to the details
 
