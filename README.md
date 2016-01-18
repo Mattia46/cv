@@ -5,19 +5,22 @@
    
    After many years in the tax legislation industry as a Corporate Tax Consultant, I realised
    that it was time to follow my passion, so I attended an intensive coding programme (Makers Academy in London)
-   and graduated as a full-stack developer. I believe in TDD (Test Driven Development) and BDD (Behaviour Driven Development) and use red-green-refactor to code my projects.
-  
-  My last three projects:
- - Housemate (website and native iOS app), find new housemate, TDD, MEAN Stack and iOS app Apple Swift (2.1)
- - Takeaway (website), BDD, MEAN stack (MongoDB, Express, Angular and NodeJS) and JQuery.
- - Not by Plane (website), find the best transportation between Airplane and Train. Retrieve and manipulate JSON object from Amadeus API using MEAN stack
-
+   and graduated as a full-stack developer. I believe in TDD (Test Driven Development) and BDD (Behaviour Driven Development) to code my projects.
+ 
 Seeking a role with a focus on TDD/BDD, continued learning and innovation.
 
 
 ## Skills
 
 I am able to built and end to end application, using different technologies and adhering to the SOLID principles. 
+
+#### Initiative
+
+During my experience as a CRM at my family Business I made my own data base to collect and analyze customer information that let me to increase the annual turnover up to 54%.
+
+#### Attention to the details
+
+The attention to the details was crucial when I was working as Corporate Tax Consultant. I spent the majority of the day reviewing documents and reserching to help companies to reach their target.
 
 #### Ruby and Ruby on Rails
 
@@ -38,7 +41,7 @@ Javascript was the second language that I learned. I first learned and used JQue
 
 - [Not by Plane](https://github.com/Mattia46/not-by-plane) Group project built in 3 days as a proof of concept. An application intended to compare flight pricing and travel information with alternate modes of transport. I learnt how to retrieve and manipulate *AJAX object* from an API. I used AngularJS as a frontend and [Amadeus low fare seach API](https://sandbox.amadeus.com/api-catalog).
 
-- [TakeAway](https://github.com/Mattia46/takeaway_project) Group project built in 4 days. I learnt how to work in a team using Githun workflow and Waffle. I also use **Twillio**. The application is tested with Jasmine.
+- [TakeAway](https://github.com/Mattia46/takeaway_project) Group project built in 4 days. I learnt how to work in a team using Githun workflow and Waffle. The technologies that I have used are MEAN stack (MongoDB, Express, Angular and NodeJS) and JQuery, I also use **Twillio**. The application is tested with Jasmine.
 
 -  [Github user search](https://github.com/Mattia46/githubChallengeJS) A project to introduce me to the core concepts of AngularJS. Tested with Jasmine, Karma and PhantomJS
 
