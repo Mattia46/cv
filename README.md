@@ -48,7 +48,7 @@ Javascript was the second language that I learned. I first learned and used JQue
 
 #### Apple Swift (2.1)
 
-I used this language for several small projects as well as for my final project [Housemate iOS](https://github.com/Mattia46/Swift-houseMates). The main challenge that I faced was to learn a new language given a lack of resources for the latest version of Swift (2.1).
+After having acquired the SOLID principles and the red-green refactor to code my projects I have decided to challenge my self by learning a new language. I used this language for several small projects as well as for my final project [Housemate iOS](https://github.com/Mattia46/Swift-houseMates). The main challenge that I faced was to learn a new language given a lack of resources for the latest version of Swift (2.1).
 
  - [Housemate iOS](https://github.com/Mattia46/Swift-houseMates) A web and iOS application to relieve the stress of finding new housemates. The App let you to create your own renting history, find people with your needs and connect with them. The main challenge that I faced was to create an API to facilitate the communication between the web site and iOS application.
  
