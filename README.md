@@ -12,7 +12,7 @@ Seeking a role with a focus on TDD/BDD, continued learning and innovation.
 
 ## Skills
 
-I am able to built and end to end application, using different technologies and adhering to the SOLID principles. 
+I am able to build and end to end application, using different technologies and adhering to the SOLID principles. 
 
 #### Initiative
 
