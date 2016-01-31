@@ -3,7 +3,7 @@
 
    Junior Web Developer available immediately.
    
-   After many years in the tax legislation industry as a Corporate Tax Consultant, I realised
+   After many years in the tax legislation industry as a corporate tax consultant, I realised
    that it was time to follow my passion, so I attended an intensive coding programme (Makers Academy in London)
    and graduated as a full-stack developer. I believe in TDD (Test Driven Development) and BDD (Behaviour Driven Development) to code my projects.
  
@@ -12,19 +12,19 @@ Seeking a role with a focus on TDD/BDD, continued learning and innovation.
 
 ## Skills
 
-I am able to build and end to end application, using different technologies and adhering to the SOLID principles. 
+I am able to build an and end to end application, using different technologies and adhering to the SOLID principles. 
 
 #### Initiative
 
-During my experience as a CRM I made my own data base to collect and analyze customers information that let me to increase the annual turnover up to 54%.
+During my experience as a CRM I made my own Database to collect and analyze customers information that lets me to increase the annual turnover up to 54%.
 
-#### Attention to details
+#### Attention to detail
 
-The attention to details was crucial when I was working as Corporate Tax Consultant. I spent the majority of the days reviewing documents and reserching to help companies to avoid mistakes.
+The attention to details was crucial when I was working as corporate tax consultant. I spent the majority of the days reviewing documents and reserching to help companies to avoid mistakes.
 
 #### Ruby and Ruby on Rails
 
- Ruby was my first Ojbect Oriented Programming code language. Through It I learnt the Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion principles (SOLID), Test-Driven
+ Ruby was my first Object Orientated Programming code language. Through It I learned the Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion principles (SOLID), Test-Driven
 Development (TDD) and Relational Database.
 
 - [Takeaway](https://github.com/Mattia46/takeaway-challenge): A Program that can manage a takeaway order. I learnt how to implement Twillio API. It is 100% tested using RSpec.
