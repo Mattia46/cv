@@ -34,7 +34,7 @@ Javascript was the second language that I learned. I first learned and used JQue
 
 - [HouseMates](https://github.com/Mattia46/HouseMates-Web) A web and iOS application to relieve the stress of finding new housemates. I learnt how to create an **API** using a combination of **Node**, **Express**, **Passport** and **Mongoose** to model the data. I also integrated the **Google Maps API**. For frontend I used **Angular**, **Html** and **Css**. I really enjoyed working in a team (using github workflow, Waffle).  I deployed the project with [Heroku](http://housematey.herokuapp.com/)
 
-- [Clothes Retail](https://github.com/Mattia46/clothes-shop) An AngularJS responsive website for a clothing retailer that display the items (retrieved by a Json object. Http request), shopping cart (CRUD) and gives to the user the possibility to apply vouchers and receive 3 types of discount. I tested the app with Karma and Protractor for e2e.
+- [Clothes Retail](https://github.com/Mattia46/clothes-shop) An AngularJS responsive website for a clothing retailer that displays the items (retrieved by a Json object. Http request), shopping cart (CRUD) and gives to the user the possibility to apply vouchers and receive 3 types of discount. I tested the app with Karma and Protractor for e2e.
 
 - [Not by Plane](https://github.com/Mattia46/not-by-plane) Group project built in 3 days as a proof of concept. An application intended to compare flight pricing and travel information with alternate modes of transport. I learnt how to retrieve and manipulate *AJAX object* from an API. I used AngularJS as a frontend and [Amadeus low fare seach API](https://sandbox.amadeus.com/api-catalog).
 
